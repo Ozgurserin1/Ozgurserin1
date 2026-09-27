@@ -1,6 +1,6 @@
 <div align="center">
 
-# OZgur Serin
+# Ozgur Serin
 
 ### Computing Student • Full-Stack Development • Software Engineering
 
