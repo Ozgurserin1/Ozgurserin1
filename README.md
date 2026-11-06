@@ -1,185 +1,318 @@
 <div align="center">
 
-# 👋 Hi, I'm Ozgur Serin
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:0B1026,45:283C86,100:7C3AED&text=OZGUR%20SERIN&fontColor=FFFFFF&fontSize=57&fontAlignY=38&desc=Software%20Developer%20%7C%20Computing%20Student%20%7C%20London%2C%20UK&descAlignY=59&descSize=17&animation=fadeIn" alt="Ozgur Serin — Software Developer" />
 
-### Computing Student · Software Developer · London, UK 🇬🇧
+### Building mobile experiences, intelligent systems & reliable networks
 
-**React Native & Expo | Full-Stack Development | Artificial Intelligence | Cisco Networking**
+**React Native & Expo** &nbsp;•&nbsp; **Full-Stack Web** &nbsp;•&nbsp; **Python & AI** &nbsp;•&nbsp; **Cisco Networking**
+
+[![Profile views](https://komarev.com/ghpvc/?username=Ozgurserin1&label=PROFILE+VIEWS&style=for-the-badge&color=6D5DF5)](https://github.com/Ozgurserin1)
+[![Followers](https://img.shields.io/github/followers/Ozgurserin1?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563EB)](https://github.com/Ozgurserin1?tab=followers)
+[![Portfolio](https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ozgurserin1?tab=repositories)
 
 *Think it. Code it. Create it.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ozgurserin1&label=Profile%20Views&color=6366f1&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Ozgurserin1?style=flat-square&logo=github)
-[![Projects](https://img.shields.io/badge/Explore-My%20Projects-181717?style=flat-square&logo=github)](https://github.com/Ozgurserin1?tab=repositories)
-
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hello, welcome to my GitHub
 
-I'm a **Computing student at Bath Spa University** based in London, UK. I enjoy designing practical, user-focused software and learning through real projects, testing and documentation.
+I'm **Ozgur Serin**, a **Computing student at Bath Spa University**, based in **London, United Kingdom**. I enjoy transforming ideas into practical software — from mobile apps and interactive websites to explainable AI experiments and real-world network simulations.
 
-My interests span **mobile applications, full-stack web development, explainable artificial intelligence, and network administration**.
+My work combines **hands-on development**, **systematic troubleshooting**, **usability**, and **clear technical documentation**. I value projects that are understandable, testable and genuinely useful.
 
-- 📱 Building mobile applications with **React Native and Expo**
-- 🌐 Creating responsive interfaces with **React, HTML, CSS and JavaScript**
-- ⚙️ Exploring back-end development with **Node.js, Express and REST APIs**
-- 🤖 Evaluating **rule-based AI** using Python and real datasets
-- 🖧 Designing and troubleshooting networks with **Cisco Packet Tracer**
-- 🎯 Interested in junior software development and remote-friendly opportunities
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**My workflow:** Research → Plan → Design → Develop → Test → Debug → Improve → Document
+### 🎯 What I focus on
+
+- 📱 Mobile development with **React Native + Expo**
+- 🌐 Responsive **front-end and full-stack** applications
+- 🤖 **Rule-based AI** and reproducible evaluation
+- 🖧 **Cisco networking** and connectivity testing
+- 🧪 Debugging, documentation and continuous improvement
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Where I'm heading
+
+- Building a stronger portfolio of **production-minded apps**
+- Improving **architecture, testing and API integration**
+- Exploring **explainable AI** and practical data analysis
+- Deepening my knowledge of **network services and security**
+- Interested in **junior / remote-friendly developer roles**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Technology Stack
+## 🧰 My Technology Toolbox
 
 <div align="center">
 
-![Technology icons](https://skillicons.dev/icons?i=js,react,html,css,vite,nodejs,express,python,cpp,git,github,vscode,visualstudio,npm)
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,vite,nodejs,express,python,cpp,git,github,vscode,visualstudio,npm&perline=8" alt="Development technology icons" />
 
 </div>
-
-### 📱 Mobile Development
-
-**React Native · Expo · JavaScript · AsyncStorage**
-
-I work on mobile interfaces, navigation, state management, informative modals, persistent local data, and interactive experiences.
 
 ### 🎨 Front-End Development
 
 **HTML5 · CSS3 · JavaScript · React · Vite**
 
-Responsive layouts, component-based interfaces, form validation, and accessible, user-focused designs.
+- Responsive layouts with Flexbox and CSS Grid
+- Reusable components and interactive interfaces
+- Forms, validation, client-side state and navigation
+- Accessibility, usability and mobile-friendly presentation
 
-### ⚙️ Back-End Development
+### 📱 Mobile Application Development
+
+**React Native · Expo · JavaScript · AsyncStorage**
+
+- Cross-platform mobile UI and screen navigation
+- Interactive modals, local persistence and app state
+- Gamification, journals and multilingual content
+- Testing on a physical iPhone with Expo Go
+
+### ⚙️ Back-End & Integration
 
 **Node.js · Express · REST APIs · JSON**
 
-Server-side application concepts, API communication, validation, and client-server integration.
+- Client–server communication and API-driven interfaces
+- Data handling, input validation and error handling
+- Authentication concepts and application integration
+- Working knowledge of Supabase integration (in progress)
 
-### 🧠 Programming and Artificial Intelligence
+### 🧠 Programming & Artificial Intelligence
 
-**Python · C++ · Rule-Based Systems · Evaluation**
+**Python · C++ · Rule-Based Systems · Model Evaluation**
 
-Object-oriented programming, algorithmic problem solving, classification rules, confusion matrices, and reproducible testing.
+- IF–THEN rules and hierarchical decision logic
+- Train/test splits, class-level evaluation and confusion matrices
+- Experiment reporting and reproducible analysis
+- Object-oriented programming and application logic
 
-### 🌐 Networking
+### 🌐 Network Administration
 
-**Cisco Packet Tracer · TCP/IP · VLANs · DHCP · DNS · Routing · Switching**
+**Cisco Packet Tracer · TCP/IP · IPv4 · VLANs · DHCP · DNS**
 
-Network design, addressing, device configuration, connectivity tests, and systematic troubleshooting.
+- Network topologies, routers, switches and end devices
+- Address planning, default gateways and connectivity tests
+- VLAN segmentation and network-service troubleshooting
+- Structured fault diagnosis and test evidence
 
-### 🔧 Tools and Collaboration
+### 🔧 Tools & Engineering Workflow
 
-**Git · GitHub · VS Code · Visual Studio · npm**
+**Git · GitHub · VS Code · Visual Studio · npm · Technical Writing**
 
-Version control, team collaboration, debugging, documentation, and iterative improvement.
-
----
-
-## 🚀 Selected Projects
-
-### 📱 QUEST BOX — Gamified Mobile Challenge App
-
-A React Native and Expo application designed around everyday challenges and progression.
-
-**Highlights:**
-- Random challenges and daily participation
-- XP, levels, streaks and achievement badges
-- Interactive completion modals
-- Persistent data with AsyncStorage
-- Tested on an iPhone using Expo Go
-
-**Stack:** React Native · Expo · JavaScript · AsyncStorage
-
-### 🔮 SIRIUS Tarot — Bilingual Mobile App *(In Development)*
-
-An English/Turkish tarot application built using React Native and Expo.
-
-**Highlights:**
-- 78-card library and multiple spreads
-- Upright and reversed card interpretations
-- Personal journal and bilingual interface
-- Guest experience
-- Optional account and cloud-sync integration being developed and tested
-
-**Stack:** React Native · Expo · JavaScript · Supabase (integration in progress)
-
-### 🤖 Car Acceptability Classification — Rule-Based AI
-
-Research comparing **flat IF–THEN** and **hierarchical rule-based classifiers** using the UCI Car Evaluation dataset.
-
-**Highlights:**
-- 1,728 data records and six categorical input attributes
-- Separate holdout evaluation and repeated train/test splits
-- Per-class performance and confusion-matrix analysis
-- Comparison of model behaviour and interpretability
-
-**Stack:** Python · Rule-Based AI · Data Evaluation
-
-### 🖧 Three-Floor Office Network — Cisco Packet Tracer
-
-A practical network administration project with routers, switches, PCs, addressing, connectivity tests and fault diagnosis.
-
-**Stack:** Cisco Packet Tracer · IPv4 · Routing · Switching
-
-### 🏫 University Campus Network
-
-A multi-device campus network with configured connectivity and documented ping testing.
-
-**Stack:** Cisco Packet Tracer · TCP/IP · Network Testing
-
-### 🏢 SeaGoof Ltd Enterprise Network *(In Progress)*
-
-Three-floor network design and troubleshooting with VLAN segmentation and planned infrastructure services.
-
-**Stack:** Cisco Packet Tracer · VLANs · DHCP · DNS · Network Troubleshooting
-
-### 💻 Web and Software Engineering
-
-Responsive web application work, C++/openFrameworks development and collaborative university projects involving requirements, testing, documentation and GitHub workflows.
-
-> Individual repository links will be added once the projects are verified and ready to share publicly.
+- Version control and collaborative workflows
+- Requirements analysis, design and implementation
+- Debugging, verification and documented results
+- Project READMEs, screenshots and technical reports
 
 ---
 
-## 📚 Currently Learning
+## 🚀 Featured Work
 
-| Focus | Current goals |
-|:--|:--|
-| 📱 Mobile | Advanced React Native and Expo development |
-| 🤖 AI | Explainable classification and rigorous evaluation |
-| 🖧 Networks | VLANs, network services and troubleshooting |
-| 🧪 Engineering | Testing, maintainability and technical documentation |
+> These are representative projects and coursework. Some repositories are still being prepared for public release; project titles below are **not** presented as verified public links.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub Activity
+### 📱 QUEST BOX
+**Gamified Challenge App**
+
+A React Native / Expo application that turns short challenges into an engaging daily experience.
+
+**Highlights**
+- Randomised challenges
+- XP, levels and daily streaks
+- Badges and achievement progression
+- Completion modals
+- Persistent state with AsyncStorage
+
+`React Native` `Expo` `JavaScript`
+
+**Status:** Working mobile prototype
+
+</td>
+<td width="50%" valign="top">
+
+### 🔮 SIRIUS TAROT
+**Bilingual Mobile Experience**
+
+An evolving mobile app exploring interactive tarot readings and personalised journaling.
+
+**Highlights**
+- 78-card library
+- Multiple spreads and card interpretations
+- English / Turkish content
+- Journal and reading experiences
+- Optional account and cloud-sync work
+
+`React Native` `Expo` `AsyncStorage`
+
+**Status:** In development; account features not yet verified
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 CAR ACCEPTABILITY AI
+**Explainable Rule-Based Classification**
+
+A research implementation comparing flat decision rules with a hierarchical classifier using the UCI Car Evaluation dataset.
+
+**Highlights**
+- Flat IF–THEN decision-list approach
+- Hierarchical rule architecture
+- Holdout and repeated-split evaluation
+- Confusion matrices and class-wise analysis
+- Written comparison of experimental results
+
+`Python` `Rule-Based AI` `Evaluation`
+
+**Status:** Research implementation completed
+
+</td>
+<td width="50%" valign="top">
+
+### 🖧 CISCO NETWORK PROJECTS
+**Network Design & Troubleshooting**
+
+A collection of Packet Tracer projects exploring office and campus networking.
+
+**Highlights**
+- Three-floor office network
+- University campus topology
+- IPv4 addressing and switch configuration
+- Ping testing and fault diagnosis
+- SeaGoof enterprise network (ongoing)
+
+`Cisco Packet Tracer` `TCP/IP` `VLANs`
+
+**Status:** Mixed — completed labs and ongoing work
+
+</td>
+</tr>
+</table>
+
+### 💻 Additional Software Engineering Experience
+
+- **Full-stack development:** React interfaces, Node.js / Express integration and API concepts.
+- **C++ applications:** Object-oriented programming, openFrameworks and interactive interfaces.
+- **Team projects:** Requirements, task planning, GitHub collaboration, testing and documentation.
+- **App usability analysis:** Interface evaluation, user testing and evidence-based recommendations.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ozgurserin1&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozgurserin1&layout=compact&theme=tokyonight&hide_border=true)
-
-![Contribution Streak](https://streak-stats.demolab.com?user=Ozgurserin1&theme=tokyonight&hide_border=true)
+[![Browse repositories](https://img.shields.io/badge/BROWSE%20ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ozgurserin1?tab=repositories)
 
 </div>
 
 ---
 
+## 🧭 How I Build Software
+
+```mermaid
+flowchart LR
+    A[Discover] --> B[Plan]
+    B --> C[Design]
+    C --> D[Develop]
+    D --> E[Test]
+    E --> F[Document]
+    F --> G[Improve]
+    G -. feedback .-> B
+```
+
+| Phase | What matters to me | Example deliverable |
+|:--|:--|:--|
+| **Discover** | Understand the user and the problem | Requirements and scope |
+| **Plan** | Choose practical architecture and milestones | Task breakdown |
+| **Design** | Prioritise clarity and usability | Wireframes / topology |
+| **Develop** | Build incrementally with readable code | Working implementation |
+| **Test** | Verify behaviour and diagnose failures | Test results / screenshots |
+| **Document** | Make the work understandable and reproducible | README / technical report |
+| **Improve** | Iterate based on evidence and feedback | Refined release |
+
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ozgurserin1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozgurserin1&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages in public repositories" height="175" />
+
+<img src="https://streak-stats.demolab.com?user=Ozgurserin1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+> Statistics are generated by third-party services and may occasionally fail to load. Language charts reflect visible repository code, not overall proficiency.
+
+---
+
+## 📚 Learning Roadmap
+
+<details>
+<summary><b>📱 Mobile Engineering</b></summary>
+
+- Reusable React Native components and navigation
+- AsyncStorage and reliable state persistence
+- Authentication and cloud data integration
+- Accessibility, performance and device testing
+
+</details>
+
+<details>
+<summary><b>🤖 Artificial Intelligence & Python</b></summary>
+
+- Explainable rule-based classification
+- Evaluation methodology and error analysis
+- Reproducible experiments and clear reporting
+
+</details>
+
+<details>
+<summary><b>🌐 Networking & Infrastructure</b></summary>
+
+- VLAN design and inter-network communication
+- DHCP, DNS, web and email services
+- Troubleshooting, documentation and security fundamentals
+
+</details>
+
+<details>
+<summary><b>🧩 Software Engineering</b></summary>
+
+- Maintainable architecture and clean code
+- Automated testing and debugging
+- Team collaboration, code review and version control
+
+</details>
+
+---
+
 ## 🤝 Let's Connect
 
-📍 **London, United Kingdom**  
-💼 **Interested in junior software development opportunities**  
-🔗 [GitHub repositories](https://github.com/Ozgurserin1?tab=repositories)
+I'm interested in collaborating on practical software projects, sharing ideas, and exploring **junior software development opportunities**, especially in **React Native / Expo**.
+
+- 📍 **Based in:** London, United Kingdom
+- 🎓 **Studying:** Computing at Bath Spa University
+- 💼 **Interested in:** Mobile development, full-stack software and practical engineering
+- 🔗 **GitHub:** [github.com/Ozgurserin1](https://github.com/Ozgurserin1)
 
 <div align="center">
 
 ### ✨ Think it. Code it. Create it.
 
-**Thanks for visiting my profile!**
+**Thanks for visiting — explore the projects and follow the journey.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B1026,45:283C86,100:7C3AED" alt="Decorative footer" />
 
 </div>
