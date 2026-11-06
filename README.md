@@ -1,271 +1,267 @@
 <div align="center">
 
-<img width="100%" alt="Ozgur Serin — Software Developer" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1026,45:27346B,100:7457C7&text=OZGUR%20SERIN&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Computing%20Student%20%7C%20Software%20Developer%20%7C%20London%2C%20UK&descAlignY=60&animation=fadeIn" />
+<img width="100%" alt="Ozgur Serin | Software Engineering Portfolio" src="https://capsule-render.vercel.app/api?type=waving&height=255&color=0:070B19,45:16264D,100:4F46A5&text=OZGUR%20SERIN&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%E2%80%A2%20APPLIED%20AI%20%E2%80%A2%20NETWORK%20ENGINEERING&descSize=16&descAlignY=60&animation=fadeIn" />
 
-### Building thoughtful digital experiences — from mobile apps to intelligent systems.
+### Designing systems. Building products. Validating results.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1100&color=9D91F7&center=true&vCenter=true&width=760&lines=React+Native+%26+Expo+Developer;Full-Stack+Web+Development;Python+%26+Explainable+AI;Cisco+Networking+%26+Troubleshooting;Plan+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve)](https://github.com/Ozgurserin1)
+**Computing Student @ Bath Spa University** · **London, United Kingdom**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Ozgurserin1&label=Profile%20views&color=6554c0&style=for-the-badge)](https://github.com/Ozgurserin1)
-[![GitHub Followers](https://img.shields.io/github/followers/Ozgurserin1?label=Followers&style=for-the-badge&logo=github&color=3B82F6)](https://github.com/Ozgurserin1?tab=followers)
-[![Repositories](https://img.shields.io/badge/Explore-Repositories-111827?style=for-the-badge&logo=github)](https://github.com/Ozgurserin1?tab=repositories)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Research%20Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ozgur-Serin)
-[![YouTube](https://img.shields.io/badge/YouTube-Project%20Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ozgurserins)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ozgurserin1?tab=repositories)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Academic%20Work-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ozgur-Serin)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ozgurserins)
+
+[![Profile views](https://komarev.com/ghpvc/?username=Ozgurserin1&label=PROFILE+VIEWS&color=475569&style=flat-square)](https://github.com/Ozgurserin1)
+![Focus](https://img.shields.io/badge/FOCUS-Production--minded%20engineering-334155?style=flat-square)
+![Location](https://img.shields.io/badge/LOCATION-London%2C%20UK-334155?style=flat-square)
 
 </div>
 
 ---
 
-## ✦ About Me
+## 01 / Engineering Profile
 
-I am **Ozgur Serin**, a **Computing student at Bath Spa University** based in **London, United Kingdom**. I work across mobile development, full-stack web applications, Python-based artificial intelligence experiments and Cisco network administration.
+I am **Ozgur Serin**, a Computing student and software developer building practical solutions across **mobile applications, web platforms, explainable artificial intelligence, and network infrastructure**.
 
-I enjoy turning complex requirements into clear, usable solutions. My projects combine **implementation, testing, troubleshooting and documentation** — not just screenshots or prototypes.
+My approach is to treat every project as an engineering problem: understand the requirements, make deliberate design decisions, implement maintainable solutions, verify behavior with evidence, and document the outcome clearly.
 
-- 📱 **Mobile:** Building interactive applications with React Native and Expo.
-- 🌐 **Web:** Developing responsive interfaces and exploring full-stack architecture.
-- 🧠 **AI:** Investigating transparent, rule-based decision systems and evaluation methods.
-- 🖧 **Networks:** Designing, configuring and testing Cisco Packet Tracer networks.
-- 🎯 **Career direction:** Junior software developer roles, particularly React Native / Expo.
-- 📍 **Location:** London, UK.
+> **What matters to me:** working software, traceable decisions, repeatable tests, thoughtful user experiences, and honest technical communication.
 
-> **My philosophy:** Make it useful. Make it understandable. Test it properly. Keep improving.
+<table>
+<tr><td width="50%" valign="top">
 
----
+**PRODUCT ENGINEERING**
 
-## ✦ Technical Toolbox
+- React Native and Expo mobile applications
+- React-based interfaces and full-stack web development
+- Persistent state, navigation and interaction design
+- API integration and practical application architecture
+
+</td><td width="50%" valign="top">
+
+**SYSTEMS & RESEARCH**
+
+- Python classification experiments and evaluation
+- Explainable, rule-based decision systems
+- Cisco Packet Tracer network design and validation
+- IP addressing, switching, routing and troubleshooting
+
+</td></tr>
+</table>
+
+## 02 / Technical Toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,vite,nodejs,express,python,cpp,git,github,vscode,visualstudio,npm&perline=8" alt="Technology icons" />
+**Languages & Core Development**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&theme=dark" alt="JavaScript, TypeScript, Python, C++, HTML and CSS" />
+
+**Application Development**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,npm&theme=dark" alt="React, Node.js, Express, Vite and npm" />
+
+**Tools & Collaboration**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma&theme=dark" alt="Git, GitHub, Visual Studio Code, Visual Studio and Figma" />
 
 </div>
 
-| Discipline | Technologies and practice |
+| Discipline | Technologies and practices |
 |:--|:--|
-| **Mobile engineering** | React Native, Expo, JavaScript, AsyncStorage, navigation, modals, local persistence |
-| **Front-end development** | HTML5, CSS3, JavaScript, React, Vite, responsive design, components, forms |
-| **Back-end development** | Node.js, Express, REST APIs, JSON, client-server communication |
-| **Programming & AI** | Python, C++, rule-based classifiers, experimental evaluation, data analysis |
-| **Networking** | Cisco Packet Tracer, IPv4, subnetting, routing, switching, VLANs, DHCP, DNS, fault isolation |
-| **Tools & workflow** | Git, GitHub, VS Code, Visual Studio, npm, technical reports, debugging and testing |
+| **Mobile engineering** | React Native, Expo SDK 58, Expo Go, navigation, modals, AsyncStorage, iOS device testing |
+| **Web engineering** | React, Vite, JavaScript, HTML5, CSS3, Node.js, Express, REST API concepts |
+| **AI & data** | Python, rule-based classification, dataset preparation, holdout evaluation, confusion matrices, repeated-split experiments |
+| **Network engineering** | Cisco Packet Tracer, TCP/IP, IPv4 subnetting, switches, routers, VLANs, DHCP, DNS, connectivity testing |
+| **Engineering workflow** | Git, GitHub, debugging, technical reports, reproducible tests, documentation, team collaboration |
 
-<sub>Tools shown reflect areas of study and hands-on project work; proficiency varies by technology.</sub>
+<sub>Tools shown represent areas used in projects or learning; they do not imply identical proficiency across every technology.</sub>
 
 ---
 
-## ✦ Featured Project Portfolio
+## 03 / Selected Engineering Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 01 — QUEST BOX · Gamified Mobile Application
 
-### 📱 QUEST BOX
-**Gamified mobile challenge application**
+**React Native · Expo SDK 58 · AsyncStorage · iPhone testing**
 
-A React Native / Expo project designed around short challenges and a motivating progression system.
+An interactive challenge-based application designed around short tasks, progression, and persistent engagement.
 
-**Highlights**
-- Randomised daily challenges
-- XP, levels and achievement badges
-- Streak tracking and completion modals
-- AsyncStorage for local persistence
-- iPhone testing using Expo Go
+| Product capability | Implementation focus |
+|:--|:--|
+| Challenge system | A collection of 12 randomized challenges |
+| Progression | XP, levels, achievements and daily streaks |
+| Session rules | Three-task daily limit and completion feedback |
+| Persistence | Local state stored using AsyncStorage |
+| Validation | Tested on a physical iPhone through Expo Go |
 
-**Stack:** `React Native` `Expo` `JavaScript` `AsyncStorage`
+**Engineering emphasis:** user-state management, conditional UI, progression logic, local persistence, and device-level verification.
 
-</td>
-<td width="50%" valign="top">
+### 02 — SIRIUS · Bilingual Tarot Application
 
-### 🔮 SIRIUS TAROT
-**Bilingual mobile experience · In development**
+**React Native · Expo SDK 58 · English/Turkish · Product architecture**
 
-A feature-rich mobile concept for interactive readings, card exploration and personal reflection.
+A mobile product under active development, designed around a structured card library, interpretation workflows, and a future reader marketplace.
 
-**Highlights**
-- 78-card library and multiple spreads
-- Turkish and English content
-- Upright / reversed interpretations
-- Journal and reading experiences
-- Account and cloud sync work **not yet production-verified**
+- **78-card library** with upright and reversed interpretations.
+- **10 spread formats** and bilingual content.
+- Journal and saved-reading concepts for personal reflection.
+- Guest-first experience with optional account architecture.
+- Supabase authentication and synchronization scaffolding **in development; not represented as production-verified**.
+- Marketplace concepts for live chat and video sessions remain **planned/in development**.
 
-**Stack:** `React Native` `Expo` `JavaScript` `Supabase (integration in progress)`
+**Engineering emphasis:** modular feature design, content modeling, localization, user journeys, and incremental release validation.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 03 — Explainable AI · Flat vs Hierarchical Rule-Based Classification
 
-### 🤖 EXPLAINABLE RULE-BASED AI
-**Car Acceptability Classification**
+**Python · UCI Car Evaluation Dataset · Experimental Design**
 
-A research-led comparison of two interpretable classification strategies using the UCI Car Evaluation dataset.
+**Research title:** *Comparing Flat and Hierarchical Rule-Based AI Systems for Car Acceptability Classification*
 
-**Highlights**
-- Flat IF–THEN decision list
-- Hierarchical rule-based classifier
-- Holdout and repeated-split evaluation
-- Confusion matrices and per-class analysis
-- Research paper and Python implementation
+A comparative research project investigating how two rule-organization strategies behave on the same categorical classification task.
 
-**Stack:** `Python` `Rule-Based AI` `Evaluation`
+| Experimental component | Detail |
+|:--|:--|
+| Dataset | UCI Car Evaluation — **1,728 records** |
+| Input features | Six categorical attributes |
+| Target | Four acceptability classes |
+| Approach A | Flat, sequential IF–THEN decision rules |
+| Approach B | Hierarchical rule organization |
+| Evaluation | Sealed holdout, repeated train/test splits, per-class analysis and confusion matrices |
 
-</td>
-<td width="50%" valign="top">
+**Key insight:** model comparisons depend on evaluation design. The held-out result and repeated-split results did not always favor the same approach; the analysis discusses that variation rather than hiding it.
 
-### 🌐 CISCO NETWORK LABS
-**Network design, configuration & troubleshooting**
+**Research integrity:** this is presented as a university research project, **not** as a peer-reviewed publication.
 
-Practical networking exercises spanning office and campus network environments.
+[![Research profile](https://img.shields.io/badge/ResearchGate-View%20research%20profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ozgur-Serin)
 
-**Highlights**
-- Three-floor office network design
-- University campus network testing
-- IP planning and switch/router configuration
-- Connectivity and fault-recovery testing
-- SeaGoof Ltd enterprise lab **in progress**
+### 04 — Cisco Network Engineering · Tested Network Topologies
 
-**Stack:** `Cisco Packet Tracer` `TCP/IP` `VLANs` `DHCP` `DNS`
+**Cisco Packet Tracer · IPv4 · Switching · Routing · Troubleshooting**
 
-</td>
-</tr>
-</table>
+**University Campus Network** — a 38-device topology configured and tested with successful connectivity checks, including recorded **0% packet loss** in final ping tests.
 
-> **Portfolio integrity:** Direct project links will be added only after their public repositories and documentation have been checked. Projects still in development are labelled accordingly.
+**Three-Floor Office Network** — a working design with **one Cisco 2911 router, four Cisco 2960 switches and 15 PCs**, using the `192.168.20.0/24` LAN and verified inter-floor communication.
+
+**SeaGoof Ltd Network** — a larger three-floor enterprise-network assignment involving subnet separation, wireless access, shared services and security considerations. **Currently being configured and troubleshot; not claimed as complete.**
+
+**Engineering emphasis:** topology planning, interface configuration, IP addressing, fault isolation, connectivity evidence and technical reporting.
+
+### 05 — Web & Collaborative Software Engineering
+
+**React · Vite · JavaScript · Node.js · Express · GitHub**
+
+Work spanning interactive interfaces, web application architecture, and team-based software delivery, including the **BSU Vault** collaborative university project.
+
+**Engineering emphasis:** version control, shared repositories, integration, requirements communication and individual accountability in group delivery.
+
+<p align="center">
+  <a href="https://github.com/Ozgurserin1?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a>
+</p>
+
+---
+
+## 04 / How I Engineer Solutions
+
+```mermaid
+flowchart LR
+    A[Understand requirements] --> B[Design architecture]
+    B --> C[Implement]
+    C --> D[Test and debug]
+    D --> E[Document evidence]
+    E --> F[Refine and iterate]
+    D -. Findings .-> B
+```
+
+| Stage | Deliverable I aim for |
+|:--|:--|
+| **Discover** | Clear scope, assumptions, constraints and acceptance criteria |
+| **Design** | Architecture, data flow, network topology or interaction model |
+| **Build** | Readable, modular implementation with sensible naming |
+| **Verify** | Device tests, ping results, test cases or model evaluation |
+| **Explain** | README, screenshots, experiment notes and reproducible steps |
+| **Improve** | Tracked issues, fixes, measured outcomes and next iterations |
 
 <details>
-<summary><b>🔎 More on my full-stack and collaborative software engineering work</b></summary>
-<br>
+<summary><b>What I look for in a strong repository</b></summary>
 
-My additional experience includes React user interfaces, Node.js / Express back-end development, C++ / openFrameworks applications, requirements analysis, version control, team-based implementation, testing and documentation.
+<br/>
 
-I value clearly written READMEs, reproducible setup instructions, honest feature descriptions and meaningful test evidence.
+- A clear problem statement and explicit project status.
+- Installation and execution instructions that someone else can follow.
+- Architecture and design decisions with appropriate trade-offs.
+- Screenshots or demonstrations that correspond to actual functionality.
+- Honest test results, known limitations and next steps.
+- Clean version history and no secrets committed to source control.
 
 </details>
 
 ---
 
-## ✦ Academic Research & Scholarly Work
+## 05 / Research, Writing & Knowledge Sharing
+
+<table>
+<tr><td width="50%" valign="top">
+
+### ResearchGate
+
+Academic interests include **explainable AI, rule-based systems, classification and applied computing research**.
+
+[![ResearchGate](https://img.shields.io/badge/OPEN%20RESEARCHGATE-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ozgur-Serin)
+
+</td><td width="50%" valign="top">
+
+### YouTube
+
+A channel for exploring video-based work and technical communication. See the channel for **actual published videos**; no unverified uploads are claimed here.
+
+[![YouTube](https://img.shields.io/badge/VISIT%20YOUTUBE-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ozgurserins)
+
+</td></tr>
+</table>
+
+**Potential demonstration topics:** React Native walkthroughs, AI experiment explanations, Cisco topology configuration and connectivity testing. These are areas of interest, **not a claim that corresponding videos have already been uploaded**.
+
+---
+
+## 06 / GitHub Activity
 
 <div align="center">
 
+<img width="49%" alt="GitHub profile statistics" src="https://github-readme-stats.vercel.app/api?username=Ozgurserin1&show_icons=true&hide_border=true&bg_color=0D152A&title_color=A5B4FC&text_color=CBD5E1&icon_color=38BDF8" />
+<img width="49%" alt="Most used languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozgurserin1&layout=compact&hide_border=true&bg_color=0D152A&title_color=A5B4FC&text_color=CBD5E1" />
+
+<img width="96%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ozgurserin1&bg_color=0D152A&color=CBD5E1&line=818CF8&point=38BDF8&area=true&hide_border=true" />
+
+<sub>Statistics are dynamically generated by third-party services and may occasionally be unavailable or incomplete.</sub>
+
+</div>
+
+---
+
+## 07 / Current Direction
+
+- **Mobile:** strengthen React Native and Expo application architecture, testing and delivery.
+- **Backend:** expand API design, authentication, data persistence and service integration.
+- **AI:** improve experimental rigor, explainability and research communication.
+- **Networking:** build more advanced routed, segmented and service-enabled Cisco networks.
+- **Professional practice:** improve automated testing, CI workflows, accessibility and deployment discipline.
+
+**Open to discussing:** junior software development opportunities, especially **React Native / Expo**, collaborative technical projects, and research-oriented computing work.
+
+---
+
+<div align="center">
+
+## Let's Build Something Useful
+
+**Code** · **Research** · **Demonstrate** · **Improve**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ozgurserin1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ozgurserin1)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Ozgur%20Serin-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ozgur-Serin)
-[![Research Code](https://img.shields.io/badge/GitHub-Explore%20Research%20Code-24292F?style=for-the-badge&logo=github)](https://github.com/Ozgurserin1?tab=repositories)
+[![YouTube](https://img.shields.io/badge/YouTube-ozgurserins-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ozgurserins)
 
-</div>
+*Think it. Code it. Create it.*
 
-My academic interests sit at the intersection of **artificial intelligence, interpretable decision systems, experimental evaluation and practical software engineering**. I aim to connect research questions with transparent implementations and reproducible tests.
-
-### Featured research project
-
-**Comparing Flat and Hierarchical Rule-Based AI Systems for Car Acceptability Classification**
-
-> An academic computing research project investigating how different rule structures affect classification performance and interpretability.
-
-| Research dimension | Approach |
-|:--|:--|
-| **Research area** | Explainable AI and rule-based classification |
-| **Dataset** | UCI Car Evaluation — 1,728 instances, 6 categorical input attributes, 4 classes |
-| **Methods** | Flat IF–THEN decision list versus hierarchical rules |
-| **Evaluation** | Sealed holdout testing, repeated data splits, confusion matrices and per-class metrics |
-| **Research practice** | Python implementation, documented experiments and discussion of differing results |
-
-**Research focus:** explainability · comparative evaluation · classification · reproducible experiments · critical analysis.
-
-**Academic integrity note:** This work is presented as a university research project, **not** as a peer-reviewed publication. Any future published papers can be listed here with verified citation details and DOIs.
-
-**ResearchGate:** [View my researcher profile](https://www.researchgate.net/profile/Ozgur-Serin).
-
----
-
-## ✦ Project Videos & Technical Demonstrations
-
-<div align="center">
-
-[![YouTube Channel](https://img.shields.io/badge/Watch%20on%20YouTube-@ozgurserins-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ozgurserins)
-
-**[Visit my YouTube channel](https://www.youtube.com/@ozgurserins)**
-
-</div>
-
-I use video as another way to communicate technical work alongside source code, testing evidence and written documentation. My channel is linked here for visitors who would like to explore available videos.
-
-**Potential demonstration topics:**
-
-| Area | What a project walkthrough can demonstrate |
-|:--|:--|
-| **React Native / Expo** | App navigation, interactions, state persistence and real-device testing |
-| **Python / AI** | Rule-based classification, evaluation and interpretation of results |
-| **Cisco Packet Tracer** | Network topologies, configuration, connectivity tests and troubleshooting |
-| **Web development** | Responsive interfaces, workflows and implementation decisions |
-
-*These are suggested video topics, not a claim that every demonstration is already published.*
-
----
-
-## ✦ How I Build Software
-
-<div align="center">
-
-| 01 · Discover | 02 · Design | 03 · Implement | 04 · Verify | 05 · Refine |
-|:--:|:--:|:--:|:--:|:--:|
-| Requirements | Architecture & UI | Clean, incremental code | Functional tests & debugging | Document & improve |
-
-</div>
-
-**Engineering priorities**
-
-- **Usability:** Interfaces should be intuitive, responsive and accessible.
-- **Maintainability:** Prefer clear structure and reusable components.
-- **Verification:** Distinguish tested functionality from planned features.
-- **Documentation:** Explain decisions, limitations, setup and outcomes.
-- **Collaboration:** Use version control and communicate progress clearly.
-
----
-
-## ✦ GitHub Dashboard
-
-<div align="center">
-
-<a href="https://github.com/Ozgurserin1">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Ozgurserin1&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/Ozgurserin1?tab=repositories">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozgurserin1&layout=compact&hide_border=true&theme=tokyonight" alt="Most used repository languages" />
-</a>
-
-<img width="78%" src="https://streak-stats.demolab.com?user=Ozgurserin1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-<sub>Statistics are generated by external services and may be temporarily unavailable or incomplete, particularly for private repositories.</sub>
-
----
-
-## ✦ What I'm Exploring Next
-
-| Track | Focus |
-|:--|:--|
-| **Mobile** | Better app architecture, navigation, state management and testing |
-| **AI** | Explainability, evaluation methodology and reliable comparisons |
-| **Networking** | VLAN segmentation, network services, security and systematic troubleshooting |
-| **Engineering** | Documentation, collaboration, reproducibility and deployment workflows |
-
----
-
-## ✦ Let's Connect
-
-I am interested in learning from other developers, collaborating on practical projects and exploring **junior software development opportunities**.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ozgurserin1-181717?style=for-the-badge&logo=github)](https://github.com/Ozgurserin1)
-[![Projects](https://img.shields.io/badge/View-My%20Projects-4F46E5?style=for-the-badge&logo=github)](https://github.com/Ozgurserin1?tab=repositories)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Research%20Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ozgur-Serin)
-[![YouTube](https://img.shields.io/badge/YouTube-Project%20Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ozgurserins)
-
-### **Think it. Code it. Create it.**
-
-<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:0B1026,45:27346B,100:7457C7" />
+<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:070B19,45:16264D,100:4F46A5" />
 
 </div>
