@@ -1,206 +1,185 @@
 <div align="center">
 
-# Ozgur Serin
+# 👋 Hi, I'm Ozgur Serin
 
-### Computing Student • Full-Stack Development • Software Engineering
+### Computing Student · Software Developer · London, UK 🇬🇧
 
-<p>
-  Building practical, responsive and user-focused software projects.
-</p>
+**React Native & Expo | Full-Stack Development | Artificial Intelligence | Cisco Networking**
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Ozgurserin1&label=Profile%20Views&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Ozgurserin1?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/Ozgurserin1?affiliations=OWNER&style=flat-square" />
-</p>
+*Think it. Code it. Create it.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ozgurserin1&label=Profile%20Views&color=6366f1&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Ozgurserin1?style=flat-square&logo=github)
+[![Projects](https://img.shields.io/badge/Explore-My%20Projects-181717?style=flat-square&logo=github)](https://github.com/Ozgurserin1?tab=repositories)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I am a **Computing student based in London**, developing my skills across full-stack web development, software engineering and application development.
+I'm a **Computing student at Bath Spa University** based in London, UK. I enjoy designing practical, user-focused software and learning through real projects, testing and documentation.
 
-I enjoy transforming ideas into practical software by working through the full development process:
+My interests span **mobile applications, full-stack web development, explainable artificial intelligence, and network administration**.
 
-**Planning → Design → Development → Testing → Improvement**
+- 📱 Building mobile applications with **React Native and Expo**
+- 🌐 Creating responsive interfaces with **React, HTML, CSS and JavaScript**
+- ⚙️ Exploring back-end development with **Node.js, Express and REST APIs**
+- 🤖 Evaluating **rule-based AI** using Python and real datasets
+- 🖧 Designing and troubleshooting networks with **Cisco Packet Tracer**
+- 🎯 Interested in junior software development and remote-friendly opportunities
 
-My GitHub profile contains university coursework, programming projects and software applications that demonstrate my technical development and progress as a developer.
-
-I am particularly interested in building applications that are:
-
-- Responsive across different devices
-- Easy to use and visually clear
-- Structured with clean and maintainable code
-- Connected to meaningful back-end functionality
-- Tested and documented properly
+**My workflow:** Research → Plan → Design → Develop → Test → Debug → Improve → Document
 
 ---
 
 ## 🧰 Technology Stack
 
-### Front-End
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
-</p>
+![Technology icons](https://skillicons.dev/icons?i=js,react,html,css,vite,nodejs,express,python,cpp,git,github,vscode,visualstudio,npm)
 
-`HTML5` `CSS3` `JavaScript` `React` `Vite`
+</div>
 
-I use modern front-end technologies to build responsive and interactive user interfaces.
+### 📱 Mobile Development
 
-My front-end work includes:
+**React Native · Expo · JavaScript · AsyncStorage**
 
-- Responsive layouts
-- CSS Grid
-- Flexbox
-- React components
-- State management
-- Form handling
-- Input validation
-- Dynamic interfaces
-- Mobile and desktop optimisation
+I work on mobile interfaces, navigation, state management, informative modals, persistent local data, and interactive experiences.
 
----
+### 🎨 Front-End Development
 
-### Back-End
+**HTML5 · CSS3 · JavaScript · React · Vite**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+Responsive layouts, component-based interfaces, form validation, and accessible, user-focused designs.
 
-`Node.js` `Express.js` `REST APIs` `JSON`
+### ⚙️ Back-End Development
 
-I am developing full-stack applications by connecting React interfaces with Node.js and Express back-end services.
+**Node.js · Express · REST APIs · JSON**
 
-My back-end experience includes:
+Server-side application concepts, API communication, validation, and client-server integration.
 
-- REST API development
-- GET and POST requests
-- JSON data handling
-- Authentication logic
-- Server-side validation
-- Booking and reservation functionality
-- Client-server communication
-- Error handling
+### 🧠 Programming and Artificial Intelligence
+
+**Python · C++ · Rule-Based Systems · Evaluation**
+
+Object-oriented programming, algorithmic problem solving, classification rules, confusion matrices, and reproducible testing.
+
+### 🌐 Networking
+
+**Cisco Packet Tracer · TCP/IP · VLANs · DHCP · DNS · Routing · Switching**
+
+Network design, addressing, device configuration, connectivity tests, and systematic troubleshooting.
+
+### 🔧 Tools and Collaboration
+
+**Git · GitHub · VS Code · Visual Studio · npm**
+
+Version control, team collaboration, debugging, documentation, and iterative improvement.
 
 ---
 
-### Programming Languages
+## 🚀 Selected Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,cpp,python" />
-</p>
+### 📱 QUEST BOX — Gamified Mobile Challenge App
 
-`JavaScript` `C++` `Python`
+A React Native and Expo application designed around everyday challenges and progression.
 
-I use programming projects to strengthen my understanding of:
+**Highlights:**
+- Random challenges and daily participation
+- XP, levels, streaks and achievement badges
+- Interactive completion modals
+- Persistent data with AsyncStorage
+- Tested on an iPhone using Expo Go
 
-- Object-Oriented Programming
-- Classes and objects
-- Functions
-- Application logic
-- Data structures
-- Error handling
-- Code organisation
-- Reusable components
+**Stack:** React Native · Expo · JavaScript · AsyncStorage
 
----
+### 🔮 SIRIUS Tarot — Bilingual Mobile App *(In Development)*
 
-### Development Tools
+An English/Turkish tarot application built using React Native and Expo.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm" />
-</p>
+**Highlights:**
+- 78-card library and multiple spreads
+- Upright and reversed card interpretations
+- Personal journal and bilingual interface
+- Guest experience
+- Optional account and cloud-sync integration being developed and tested
 
-`Git` `GitHub` `Visual Studio Code` `Visual Studio` `npm`
+**Stack:** React Native · Expo · JavaScript · Supabase (integration in progress)
 
-I use Git and GitHub throughout development to manage source code, maintain project history and document project progress.
+### 🤖 Car Acceptability Classification — Rule-Based AI
 
----
+Research comparing **flat IF–THEN** and **hierarchical rule-based classifiers** using the UCI Car Evaluation dataset.
 
-## 🚀 What I Build
+**Highlights:**
+- 1,728 data records and six categorical input attributes
+- Separate holdout evaluation and repeated train/test splits
+- Per-class performance and confusion-matrix analysis
+- Comparison of model behaviour and interpretability
 
-My projects cover several areas of computing and software development.
+**Stack:** Python · Rule-Based AI · Data Evaluation
 
-### 🌐 Full-Stack Web Applications
+### 🖧 Three-Floor Office Network — Cisco Packet Tracer
 
-I develop responsive applications using technologies such as:
+A practical network administration project with routers, switches, PCs, addressing, connectivity tests and fault diagnosis.
 
-**React + JavaScript + Node.js + Express**
+**Stack:** Cisco Packet Tracer · IPv4 · Routing · Switching
 
-Typical functionality includes:
+### 🏫 University Campus Network
 
-- User registration
-- User login and logout
-- Authentication
-- Dynamic data
-- Availability searches
-- Booking systems
-- Form validation
-- API communication
-- User-specific information
-- Responsive layouts
+A multi-device campus network with configured connectivity and documented ping testing.
 
----
+**Stack:** Cisco Packet Tracer · TCP/IP · Network Testing
 
-### 💻 C++ Applications
+### 🏢 SeaGoof Ltd Enterprise Network *(In Progress)*
 
-I also develop desktop applications using **C++** and **openFrameworks**.
+Three-floor network design and troubleshooting with VLAN segmentation and planned infrastructure services.
 
-These projects allow me to work with:
+**Stack:** Cisco Packet Tracer · VLANs · DHCP · DNS · Network Troubleshooting
 
-- Object-Oriented Programming
-- External APIs
-- JSON parsing
-- Application states
-- Dynamic layouts
-- Interactive interfaces
-- Data visualisation
-- Responsive positioning
-- Error handling
+### 💻 Web and Software Engineering
+
+Responsive web application work, C++/openFrameworks development and collaborative university projects involving requirements, testing, documentation and GitHub workflows.
+
+> Individual repository links will be added once the projects are verified and ready to share publicly.
 
 ---
 
-### 👥 Software Engineering Projects
+## 📚 Currently Learning
 
-I have experience working on team-based software projects involving:
-
-- Requirements analysis
-- Project planning
-- Team roles
-- UI/UX design
-- Development
-- Testing
-- Documentation
-- Version control
-- GitHub collaboration
-- Reflection and evaluation
+| Focus | Current goals |
+|:--|:--|
+| 📱 Mobile | Advanced React Native and Expo development |
+| 🤖 AI | Explainable classification and rigorous evaluation |
+| 🖧 Networks | VLANs, network services and troubleshooting |
+| 🧪 Engineering | Testing, maintainability and technical documentation |
 
 ---
 
-## 📌 Project Development Process
+## 📊 GitHub Activity
 
-When developing a project, I aim to follow a structured process:
+<div align="center">
 
-```text
-Idea
-  ↓
-Research
-  ↓
-Requirements
-  ↓
-Planning
-  ↓
-UI / UX Design
-  ↓
-Development
-  ↓
-Testing
-  ↓
-Debugging
-  ↓
-Improvement
-  ↓
-Final Product
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ozgurserin1&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozgurserin1&layout=compact&theme=tokyonight&hide_border=true)
+
+![Contribution Streak](https://streak-stats.demolab.com?user=Ozgurserin1&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+📍 **London, United Kingdom**  
+💼 **Interested in junior software development opportunities**  
+🔗 [GitHub repositories](https://github.com/Ozgurserin1?tab=repositories)
+
+<div align="center">
+
+### ✨ Think it. Code it. Create it.
+
+**Thanks for visiting my profile!**
+
+</div>
