@@ -174,15 +174,15 @@ A three-floor network design with separate subnets, VLANs, wireless access and p
 
 <div align="center">
 
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ozgurserin1&theme=github-compact&hide_border=true&area=true)](https://github.com/Ozgurserin1)
+### My development activity on GitHub
 
-[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Ozgurserin1&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)](https://github.com/Ozgurserin1)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozgurserin1&layout=compact&theme=transparent&hide_border=true&langs_count=8)](https://github.com/Ozgurserin1?tab=repositories)
+Explore my public repositories, contributions, and latest work directly on GitHub. These links use GitHub's own pages, so there are no broken third-party statistics images.
 
-[![GitHub followers](https://img.shields.io/github/followers/Ozgurserin1?style=flat-square&logo=github&label=Followers)](https://github.com/Ozgurserin1?tab=followers)
-[![GitHub profile](https://img.shields.io/badge/GitHub-Explore%20my%20repositories-24292f?style=flat-square&logo=github)](https://github.com/Ozgurserin1?tab=repositories)
+| 📅 Contributions | 💻 Repositories | 🕒 Recent activity |
+|:---:|:---:|:---:|
+| [**View contribution calendar**](https://github.com/Ozgurserin1#user-activity-overview) | [**Explore my projects**](https://github.com/Ozgurserin1?tab=repositories) | [**View recent activity**](https://github.com/Ozgurserin1?tab=overview) |
 
-**[Live contribution calendar](https://github.com/Ozgurserin1#user-activity-overview) · [Repositories](https://github.com/Ozgurserin1?tab=repositories) · [Recent activity](https://github.com/Ozgurserin1?tab=overview)**
+[**⭐ Visit my GitHub profile →**](https://github.com/Ozgurserin1)
 
 </div>
 
