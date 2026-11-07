@@ -174,17 +174,17 @@ A three-floor network design with separate subnets, VLANs, wireless access and p
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Ozgurserin1?style=for-the-badge&logo=github&label=Followers)](https://github.com/Ozgurserin1?tab=followers)
-[![Public repositories](https://img.shields.io/badge/Public_Repositories-View_on_GitHub-24292f?style=for-the-badge&logo=github)](https://github.com/Ozgurserin1?tab=repositories)
-[![Contributions](https://img.shields.io/badge/Contribution_Calendar-Open_Live_Graph-6D28D9?style=for-the-badge&logo=github)](https://github.com/Ozgurserin1#user-activity-overview)
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ozgurserin1&theme=github-compact&hide_border=true&area=true)](https://github.com/Ozgurserin1)
 
-### [📅 View my live contribution calendar on GitHub](https://github.com/Ozgurserin1#user-activity-overview)
+[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Ozgurserin1&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)](https://github.com/Ozgurserin1)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozgurserin1&layout=compact&theme=transparent&hide_border=true&langs_count=8)](https://github.com/Ozgurserin1?tab=repositories)
 
-**[View repositories](https://github.com/Ozgurserin1?tab=repositories) · [View recent activity](https://github.com/Ozgurserin1?tab=overview) · [View followers](https://github.com/Ozgurserin1?tab=followers)**
+[![GitHub followers](https://img.shields.io/github/followers/Ozgurserin1?style=flat-square&logo=github&label=Followers)](https://github.com/Ozgurserin1?tab=followers)
+[![GitHub profile](https://img.shields.io/badge/GitHub-Explore%20my%20repositories-24292f?style=flat-square&logo=github)](https://github.com/Ozgurserin1?tab=repositories)
+
+**[Live contribution calendar](https://github.com/Ozgurserin1#user-activity-overview) · [Repositories](https://github.com/Ozgurserin1?tab=repositories) · [Recent activity](https://github.com/Ozgurserin1?tab=overview)**
 
 </div>
-
-> **Why no broken statistics image?** GitHub does not provide a native, embeddable README statistics card. The previous `github-readme-stats.vercel.app` images depend on an external service and may fail or hit rate limits. This version links directly to GitHub's own live contribution calendar instead. GitHub contribution visibility also depends on your account's privacy and contribution settings.
 
 ---
 
