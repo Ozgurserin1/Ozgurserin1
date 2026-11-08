@@ -8,6 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Ozgurserin1)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ozgur-Serin)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8782-6877)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ozgurserins)
 
 [**About**](#-about-me) · [**Technology**](#-technology-toolkit) · [**Projects**](#-selected-projects) · [**GitHub Activity**](#-github-activity) · [**Connect**](#-connect)
