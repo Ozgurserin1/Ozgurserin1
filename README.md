@@ -30,6 +30,23 @@ I enjoy developing real applications, testing them on devices, troubleshooting n
 
 ---
 
+
+## Research Publications
+
+### Car Acceptability Classification
+**A Comparative Study of Flat and Hierarchical Rule-Based AI Systems**
+
+**Author:** Ozgur Serin  
+**Year:** 2026  
+**Type:** Research Preprint  
+**Affiliation:** Bath Spa University, United Kingdom
+
+A comparative study of flat and hierarchical rule-based artificial intelligence classifiers using the UCI Car Evaluation Dataset.
+
+[Read the Preprint on ResearchGate](https://www.researchgate.net/publication/417631123_Car_Acceptability_Classification_A_Comparative_Study_of_Flat_and_Hierarchical_Rule-Based_AI_Systems)
+
+[View Source Code and Experiments](https://github.com/Ozgurserin1/Rule_Based_AI_Car_Evaluation_CPU5006)
+
 ## 🧰 Technology Toolkit
 
 <div align="center">
