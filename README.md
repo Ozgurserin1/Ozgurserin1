@@ -41,7 +41,7 @@ I enjoy developing real applications, testing them on devices, troubleshooting n
 **Year:** 2026  
 **Type:** Research Preprint  
 **Affiliation:** Bath Spa University, United Kingdom
-
+**DOI:** [10.13140/RG.2.2.29056.19202](https://doi.org/10.13140/RG.2.2.29056.19202)
 A comparative study of flat and hierarchical rule-based artificial intelligence classifiers using the UCI Car Evaluation Dataset.
 
 [Read the Preprint on ResearchGate](https://www.researchgate.net/publication/417631123_Car_Acceptability_Classification_A_Comparative_Study_of_Flat_and_Hierarchical_Rule-Based_AI_Systems)
