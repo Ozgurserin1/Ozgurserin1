@@ -33,6 +33,7 @@ I enjoy developing real applications, testing them on devices, troubleshooting n
 ---
 
 ## Research Publications
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24093377.svg)](https://doi.org/10.5281/zenodo.24093377)
 
 ### Car Acceptability Classification
 **A Comparative Study of Flat and Hierarchical Rule-Based AI Systems**
@@ -42,10 +43,12 @@ I enjoy developing real applications, testing them on devices, troubleshooting n
 **Type:** Research Preprint  
 **Affiliation:** Bath Spa University, United Kingdom
 **DOI:** [10.13140/RG.2.2.29056.19202](https://doi.org/10.13140/RG.2.2.29056.19202)
-
+**Zenodo DOI:** [10.5281/zenodo.24093377](https://doi.org/10.5281/zenodo.24093377)  
+**ORCID:** [0009-0006-8782-6877](https://orcid.org/0009-0006-8782-6877)
 A comparative study of flat and hierarchical rule-based artificial intelligence classifiers using the UCI Car Evaluation Dataset.
 
 [Read the Preprint on ResearchGate](https://www.researchgate.net/publication/417631123_Car_Acceptability_Classification_A_Comparative_Study_of_Flat_and_Hierarchical_Rule-Based_AI_Systems)
+[Read the Preprint on Zenodo](https://doi.org/10.5281/zenodo.24093377)
 
 [View Source Code and Experiments](https://github.com/Ozgurserin1/Rule_Based_AI_Car_Evaluation_CPU5006)
 
